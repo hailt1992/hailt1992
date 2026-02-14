@@ -1,8 +1,5 @@
-## Hi there, my name is Hai, currently located in Chicago, IL and looking for a new opportunity as an Analyst.
+## Hi there, my name is Hai Le, located in Chicago, IL and looking for a new opportunity as an Analyst.
 
-<a href="(https://www.linkedin.com/in/hailt1706/)"> <img src="https://img.shields.io" alt="LinkedIn"/> </a> <a href="Hailt1706@gmail.com">
-  <img src="https://img.shields.io" alt="Email"/>
-</a>
 
 I am currently completing the Business Intelligence program at TripleTen Bootcamp to further develop my skills in advanced spreadsheets, SQL, Tableau, and Power BI. I believe this training has strengthened my analytical abilities and aligned my skills with job requirements for Analyst position.
 
@@ -16,9 +13,9 @@ Problem Solver with Critical Thinking, transforming complex data into actionable
 - ⚡ Fun fact: Look like extrovert but I am an introvert.
 
 - 📫 How to reach me: 
-My email: hailt1706@gmail.com
-My phone number: 707 - 515 - 8485
-My LINKEDIN: https://www.linkedin.com/in/hailt1706/
+- My email: hailt1706@gmail.com
+- My phone number: 707 - 515 - 8485
+- My LINKEDIN: https://www.linkedin.com/in/hailt1706/
 
 - 😄 Pronouns: Her/she
 
