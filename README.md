@@ -1,7 +1,7 @@
 ## Hi there, my name is Hai, currently located in Chicago, IL and looking for a new opportunity as an Analyst.
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io" alt="[LinkedIn Badge](https://www.linkedin.com/in/hailt1706/"/>
+<a href="(https://www.linkedin.com/in/hailt1706/)">
+  <img src="https://img.shields.io" alt="LinkedIn Badge"/>
 </a>
 
 I am currently completing the Business Intelligence program at TripleTen Bootcamp to further develop my skills in advanced spreadsheets, SQL, Tableau, and Power BI. I believe this training has strengthened my analytical abilities and aligned my skills with job requirements for Analyst position.
