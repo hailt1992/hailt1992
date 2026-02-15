@@ -1,7 +1,7 @@
 ## Welcome to Hai's Business Analyst portfolio!
 
- [![Gmail Badge](https://img.shields.io/badge/-zarina.perez.2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hailt1706@gmail.com)](mailto:hailt1706@gmail.com) 
-[![LinkedIn Badge](https://img.shields.io/badge/-zarina--perez-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hailt1706/)](https://www.linkedin.com/in/hailt1706/) [![GitHub Badge](https://img.shields.io/badge/-zarina--perez-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hailt1992)](https://github.com/hailt1992) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/hailt1992/Data_projects_TripleTen)](https://github.com/hailt1992/Data_projects_TripleTen) <p align='left'>
+ [![Gmail Badge](https://img.shields.io/badge/-hailt1706@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hailt1706@gmail.com)](mailto:hailt1706@gmail.com) 
+[![LinkedIn Badge](https://img.shields.io/badge/-hailt1706-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hailt1706/)](https://www.linkedin.com/in/hailt1706/) [![GitHub Badge](https://img.shields.io/badge/-hailt1992-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hailt1992)](https://github.com/hailt1992) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/hailt1992/Data_projects_TripleTen)](https://github.com/hailt1992/Data_projects_TripleTen) <p align='left'>
 
 I am looking for a new opportunity as Analyst/ Business Analyst/ Data Analyst.
 
