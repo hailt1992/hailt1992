@@ -3,7 +3,9 @@
  [![Gmail Badge](https://img.shields.io/badge/-zarina.perez.2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hailt1706@gmail.com)](mailto:hailt1706@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/-zarina--perez-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hailt1706/)](https://www.linkedin.com/in/hailt1706/) [![GitHub Badge](https://img.shields.io/badge/-zarina--perez-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hailt1992)](https://github.com/hailt1992) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/hailt1992/Data_projects_TripleTen)](https://github.com/hailt1992/Data_projects_TripleTen) <p align='left'>
 
-I am currently completing the Business Intelligence program at TripleTen Bootcamp to further develop my skills in advanced spreadsheets, SQL, Tableau, and Power BI. I believe this training has strengthened my analytical abilities and aligned my skills with job requirements for Analyst position.
+I am looking for a new opportunity as Analyst/ Business Analyst/ Data Analyst.
+
+I am currently completing the Business Intelligence Analyst program at TripleTen Bootcamp to further develop my skills in advanced spreadsheets, SQL, Tableau, and Power BI. I believe this training has strengthened my analytical abilities and aligned my skills with job requirements for Analyst position.
 
 My experience working in various positions, including customer service, sales, and operations management. In these roles, I had the opportunity to work closely with sales and operations data. I am proficient in using Excel tools such as PivotTables and VLOOKUP to analyze demand patterns, market trends, and quarterly forecasts, and to prepare reports for the operations team.
 
