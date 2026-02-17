@@ -16,7 +16,7 @@ Problem Solver with Critical Thinking, transforming complex data into actionable
 
 - 📫 How to reach me: 
 - My email: hailt1706@gmail.com
-- My phone number: 707 - 515 - 8485
+- My phone number: 707-515-8485
 - My LINKEDIN: https://www.linkedin.com/in/hailt1706/
 - Location: Chicago, IL
 
